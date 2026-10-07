@@ -14,6 +14,7 @@ Python 학습 및 개발환경 구성 과정에서 자주 발생하는 문제와
 - [06. PATH / Python 환경 문제](./06_path_environment_errors.md) — 여러 Python 버전, 환경 충돌
 - [07. 자주 발생하는 Python 오류](./07_common_python_errors.md) — SyntaxError, NameError, TypeError 등
 - [08. GitHub Codespaces 문제](./08_codespaces_errors.md) — Codespace, Git, 환경 문제
+- [09. 한글 폰트 및 파일 인코딩 문제](./09_korean_font_encoding_errors.md) — 그래프 한글 폰트, CSV/TXT 읽기·저장 인코딩
 
 ## 🚨 오류가 발생했을 때 기본 확인 순서
 
