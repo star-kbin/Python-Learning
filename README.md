@@ -103,3 +103,12 @@ Python 프로젝트에서 사용하는 기본 폴더 구조를 알아봅니다.
 다음 과정에서는 다음 내용을 학습합니다.
 
 `변수 → 자료형 → 연산자 → 조건문 → 반복문 → 함수 → 자료구조`
+
+
+---
+
+# 🛠 문제 해결 가이드
+
+Python 설치, VS Code, Jupyter, 패키지 설치, 코드 실행 중 문제가 발생하면 Troubleshooting 문서를 확인하세요.
+
+👉 [Troubleshooting Guide](./troubleshooting/README.md)
