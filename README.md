@@ -1,4 +1,4 @@
-# 🐍 Python Programming Basic (파이썬 배우기 기초 사용법과 응용, 문제 해결까지)
+# 🐍 Python Programming Basic (파이썬 배우기 기초)
 
 Python을 처음 접하는 학습자를 위한 기초 프로그래밍 과정입니다.
 
