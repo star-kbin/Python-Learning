@@ -87,3 +87,12 @@ Python 프로그래밍 시작
 ```text
 출력 → 변수 → 자료형 → 연산자 → 조건문 → 반복문 → 함수 → 자료구조
 ```
+
+
+---
+
+## 🛠 문제가 발생했나요?
+
+설치 또는 실행 중 오류가 발생하면 아래 문제 해결 가이드를 확인하세요.
+
+👉 [Python Troubleshooting Guide](../troubleshooting/README.md)
