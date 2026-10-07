@@ -24,6 +24,12 @@ VS Code 및 Jupyter Notebook 사용 방법까지 단계적으로 학습합니다
 
 # 📚 학습 순서
 
+먼저 개발환경 구축 과정인 **00_setup**을 순서대로 학습합니다.
+
+👉 [00. Python 개발환경 구축 시작하기](./00_setup/README.md)
+
+---
+
 ## 01. Python과 프로그래밍 이해
 
 - 프로그래밍이란?
@@ -33,7 +39,7 @@ VS Code 및 Jupyter Notebook 사용 방법까지 단계적으로 학습합니다
 - Python의 특징
 - Python 활용 분야
 
-👉 [학습하기](./01_python_intro/README.md)
+👉 [학습하기](./00_setup/01_python_intro.md)
 
 ---
 
@@ -44,7 +50,7 @@ VS Code 및 Jupyter Notebook 사용 방법까지 단계적으로 학습합니다
 - PATH 설정
 - Python 설치 확인
 
-👉 [학습하기](./02_python_install/README.md)
+👉 [학습하기](./00_setup/02_python_install.md)
 
 ---
 
@@ -55,7 +61,7 @@ VS Code 및 Jupyter Notebook 사용 방법까지 단계적으로 학습합니다
 - Python Interpreter 설정
 - 첫 Python 프로그램 실행
 
-👉 [학습하기](./03_vscode_setup/README.md)
+👉 [학습하기](./00_setup/03_vscode_setup.md)
 
 ---
 
@@ -66,7 +72,7 @@ VS Code 및 Jupyter Notebook 사용 방법까지 단계적으로 학습합니다
 - Kernel 설정
 - Notebook 실행
 
-👉 [학습하기](./04_jupyter_setup/README.md)
+👉 [학습하기](./00_setup/04_jupyter_setup.md)
 
 ---
 
@@ -78,7 +84,7 @@ VS Code 및 Jupyter Notebook 사용 방법까지 단계적으로 학습합니다
 - Seaborn
 - Scikit-learn
 
-👉 [학습하기](./05_package_setup/README.md)
+👉 [학습하기](./00_setup/05_package_setup.md)
 
 ---
 
@@ -86,7 +92,7 @@ VS Code 및 Jupyter Notebook 사용 방법까지 단계적으로 학습합니다
 
 Python 프로젝트에서 사용하는 기본 폴더 구조를 알아봅니다.
 
-👉 [학습하기](./06_workspace/README.md)
+👉 [학습하기](./00_setup/06_workspace.md)
 
 ---
 
