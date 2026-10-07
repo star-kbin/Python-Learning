@@ -1,2 +1,3 @@
-# Python-Learning
-Learning Python basic, coding, troubleshooting, install, setting
+# 파이썬 배우기 (설치 부터 기초 사용법과 응용, 문제 해결까지)
+
+
