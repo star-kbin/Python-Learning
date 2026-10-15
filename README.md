@@ -104,6 +104,7 @@ Python 프로젝트에서 사용하는 기본 폴더 구조를 알아봅니다.
 
 `변수 → 자료형 → 연산자 → 조건문 → 반복문 → 함수 → 자료구조`
 
+👉 **[다음 과정: Python_Basic (파이썬 기초 프로그래밍) 학습 시작하기](https://github.com/star-kbin/Python_Basic)**
 
 ---
 
