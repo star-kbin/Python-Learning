@@ -10,7 +10,8 @@
       "오류"
     ],
     "answer": 1,
-    "explanation": "인덱스는 0부터 시작합니다."
+    "explanation": "인덱스는 0부터 시작합니다.",
+    "points": 3
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
       "오류"
     ],
     "answer": 1,
-    "explanation": "문자열의 문자 수는 6입니다."
+    "explanation": "문자열의 문자 수는 6입니다.",
+    "points": 3
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
       "[2,7]"
     ],
     "answer": 0,
-    "explanation": "range의 끝 값은 포함되지 않습니다."
+    "explanation": "range의 끝 값은 포함되지 않습니다.",
+    "points": 4
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
       "5"
     ],
     "answer": 2,
-    "explanation": "get의 두 번째 인자는 기본값입니다."
+    "explanation": "get의 두 번째 인자는 기본값입니다.",
+    "points": 4
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
       "[1,2,3]"
     ],
     "answer": 2,
-    "explanation": "조건을 만족하는 2,3만 제곱합니다."
+    "explanation": "조건을 만족하는 2,3만 제곱합니다.",
+    "points": 4
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
       "빈 문자열"
     ],
     "answer": 2,
-    "explanation": "암묵적으로 None을 반환합니다."
+    "explanation": "암묵적으로 None을 반환합니다.",
+    "points": 3
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
       "tuple"
     ],
     "answer": 3,
-    "explanation": "튜플은 생성 후 요소를 직접 변경할 수 없습니다."
+    "explanation": "튜플은 생성 후 요소를 직접 변경할 수 없습니다.",
+    "points": 4
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
       "TypeError"
     ],
     "answer": 1,
-    "explanation": "숫자 5와 문자열 '5'는 다릅니다."
+    "explanation": "숫자 5와 문자열 '5'는 다릅니다.",
+    "points": 3
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
       "오류"
     ],
     "answer": 2,
-    "explanation": "-1 인덱스는 마지막 항목입니다."
+    "explanation": "-1 인덱스는 마지막 항목입니다.",
+    "points": 3
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
       "error ZeroDivisionError"
     ],
     "answer": 1,
-    "explanation": "try/except로 예외를 처리합니다."
+    "explanation": "try/except로 예외를 처리합니다.",
+    "points": 4
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
       "오류"
     ],
     "answer": 2,
-    "explanation": "기본 인수 b=2가 적용됩니다."
+    "explanation": "기본 인수 b=2가 적용됩니다.",
+    "points": 4
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
       ":="
     ],
     "answer": 1,
-    "explanation": "==는 값이 같은지 비교합니다."
+    "explanation": "==는 값이 같은지 비교합니다.",
+    "points": 3
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
       "오류"
     ],
     "answer": 1,
-    "explanation": "append는 리스트에 원소 하나를 추가합니다."
+    "explanation": "append는 리스트에 원소 하나를 추가합니다.",
+    "points": 3
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
       "df.rows()"
     ],
     "answer": 1,
-    "explanation": "head()의 기본 행 수는 5입니다."
+    "explanation": "head()의 기본 행 수는 5입니다.",
+    "points": 4
   },
   {
     "id": 15,
@@ -192,7 +206,8 @@
       "df.shape"
     ],
     "answer": 1,
-    "explanation": "isna()를 열별로 합산합니다."
+    "explanation": "isna()를 열별로 합산합니다.",
+    "points": 4
   },
   {
     "id": 16,
@@ -205,7 +220,8 @@
       "df.filter(20)"
     ],
     "answer": 1,
-    "explanation": "불리언 마스킹으로 행을 선택합니다."
+    "explanation": "불리언 마스킹으로 행을 선택합니다.",
+    "points": 4
   },
   {
     "id": 17,
@@ -218,7 +234,8 @@
       "df.mean()"
     ],
     "answer": 0,
-    "explanation": "groupby와 집계 함수를 사용합니다."
+    "explanation": "groupby와 집계 함수를 사용합니다.",
+    "points": 5
   },
   {
     "id": 18,
@@ -231,7 +248,8 @@
       "replace()"
     ],
     "answer": 1,
-    "explanation": "drop_duplicates는 중복 행을 제거합니다."
+    "explanation": "drop_duplicates는 중복 행을 제거합니다.",
+    "points": 4
   },
   {
     "id": 19,
@@ -244,7 +262,8 @@
       "pd.DataFrame.read()"
     ],
     "answer": 1,
-    "explanation": "read_csv로 CSV 데이터를 로딩합니다."
+    "explanation": "read_csv로 CSV 데이터를 로딩합니다.",
+    "points": 4
   },
   {
     "id": 20,
@@ -257,7 +276,8 @@
       "합계"
     ],
     "answer": 1,
-    "explanation": "중앙값은 극단값에 상대적으로 강건합니다."
+    "explanation": "중앙값은 극단값에 상대적으로 강건합니다.",
+    "points": 4
   },
   {
     "id": 21,
@@ -270,7 +290,8 @@
       "결측치 제거"
     ],
     "answer": 0,
-    "explanation": "산점도는 두 수치 변수의 관계를 관찰합니다."
+    "explanation": "산점도는 두 수치 변수의 관계를 관찰합니다.",
+    "points": 3
   },
   {
     "id": 22,
@@ -283,7 +304,8 @@
       "상관관계 없음"
     ],
     "answer": 0,
-    "explanation": "강한 음의 선형 상관이나 인과를 보장하지 않습니다."
+    "explanation": "강한 음의 선형 상관이나 인과를 보장하지 않습니다.",
+    "points": 4
   },
   {
     "id": 23,
@@ -296,7 +318,8 @@
       "항상 정규분포"
     ],
     "answer": 1,
-    "explanation": "모든 관측값이 동일하면 표준편차가 0입니다."
+    "explanation": "모든 관측값이 동일하면 표준편차가 0입니다.",
+    "points": 4
   },
   {
     "id": 24,
@@ -309,7 +332,8 @@
       "위험 없음"
     ],
     "answer": 0,
-    "explanation": "미래 정보가 유입되면 성능이 부풀려집니다."
+    "explanation": "미래 정보가 유입되면 성능이 부풀려집니다.",
+    "points": 2
   },
   {
     "id": 25,
@@ -322,7 +346,8 @@
       "테스트 데이터로 학습"
     ],
     "answer": 1,
-    "explanation": "시간 순서를 보존해 실제 예측 조건을 모사합니다."
+    "explanation": "시간 순서를 보존해 실제 예측 조건을 모사합니다.",
+    "points": 2
   },
   {
     "id": 26,
@@ -335,7 +360,8 @@
       "평균값"
     ],
     "answer": 1,
-    "explanation": "불균형 문제에서는 정밀도와 재현율이 중요합니다."
+    "explanation": "불균형 문제에서는 정밀도와 재현율이 중요합니다.",
+    "points": 2
   },
   {
     "id": 27,
@@ -348,7 +374,8 @@
       "매 행마다 fit"
     ],
     "answer": 2,
-    "explanation": "데이터 누수를 예방합니다."
+    "explanation": "데이터 누수를 예방합니다.",
+    "points": 3
   },
   {
     "id": 28,
@@ -361,7 +388,8 @@
       "모델부터 변경"
     ],
     "answer": 1,
-    "explanation": "결측 발생 메커니즘을 먼저 파악해야 합니다."
+    "explanation": "결측 발생 메커니즘을 먼저 파악해야 합니다.",
+    "points": 2
   },
   {
     "id": 29,
@@ -374,7 +402,8 @@
       "설명분산"
     ],
     "answer": 0,
-    "explanation": "절대 오차를 평균한 수치입니다."
+    "explanation": "절대 오차를 평균한 수치입니다.",
+    "points": 2
   },
   {
     "id": 30,
@@ -387,6 +416,7 @@
       "r이 양수일 때만 예"
     ],
     "answer": 1,
-    "explanation": "상관관계만으로 인과관계를 입증할 수 없습니다."
+    "explanation": "상관관계만으로 인과관계를 입증할 수 없습니다.",
+    "points": 2
   }
 ]
