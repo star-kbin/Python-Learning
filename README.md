@@ -113,3 +113,15 @@ Python 프로젝트에서 사용하는 기본 폴더 구조를 알아봅니다.
 Python 설치, VS Code, Jupyter, 패키지 설치, 코드 실행 중 문제가 발생하면 Troubleshooting 문서를 확인하세요.
 
 👉 [Troubleshooting Guide](./troubleshooting/README.md)
+
+---
+
+# 🧪 Python & Data 역량 자가진단
+
+파이썬 문법, 코드 해석, 데이터 처리, 통계, 분석 문제 해결 역량을 30문항으로 진단합니다. 자동 채점으로 점수·Level 1~5 및 취약 영역별 학습 경로를 안내합니다.
+
+**객관적인 자기 평가를 위해 AI Agent(ChatGPT, Copilot 등), 인터넷 검색, 타인의 도움, 코드 자동완성 또는 외부 코드 실행 없이 독립적으로 응시하세요.**
+
+👉 **[자가진단 시작 안내 및 실행 방법](./self_assessment/README.md)**
+
+> 본 테스트는 비공인 자가진단으로 실제 코딩 실습 능력 또는 공식 자격을 보증하지 않습니다.
