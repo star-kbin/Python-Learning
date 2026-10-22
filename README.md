@@ -120,7 +120,9 @@ Python 설치, VS Code, Jupyter, 패키지 설치, 코드 실행 중 문제가 �
 
 **파이썬 설치 없이 GitHub에서 바로 30문항을 풀어볼 수 있습니다.** 문제를 먼저 풀고, 정답·해설을 펼쳐 직접 채점한 후 점수·레벨별 학습 방향을 확인하세요.
 
-- 👉 **[자가진단 문제 풀기](./self_assessment/TEST.md)**
+- 👉 **[📱 모바일 웹앱에서 역량진단 시작하기](https://python-learning-bjfsrujafdg4dawpvfdriz.streamlit.app/)**
+
+- [GitHub에서 기존 자가진단 문제 보기](./self_assessment/TEST.md)
 - 👉 **[점수 계산·레벨 확인·추천 학습](./self_assessment/SCORE_AND_LEARNING.md)**
 - 👉 [자가진단 이용 안내](./self_assessment/README.md)
 
