@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "category": "A",
+    "category_title": "Python 문법·자료구조",
+    "question": "리스트 [4,8,12]에서 두 번째 값은?",
+    "options": [
+      "4",
+      "8",
+      "12",
+      "오류"
+    ],
+    "answer": 1,
+    "points": 3,
+    "explanation": "인덱스는 0부터 시작합니다."
+  },
+  {
+    "id": 2,
+    "category": "A",
+    "category_title": "Python 문법·자료구조",
+    "question": "len('Python')의 결과는?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "오류"
+    ],
+    "answer": 1,
+    "points": 3,
+    "explanation": "문자열의 문자 수는 6입니다."
+  },
+  {
+    "id": 3,
+    "category": "A",
+    "category_title": "Python 문법·자료구조",
+    "question": "range(2,7,2)를 list로 바꾸면?",
+    "options": [
+      "[2,4,6]",
+      "[2,4,6,8]",
+      "[2,3,4,5,6]",
+      "[2,7]"
+    ],
+    "answer": 0,
+    "points": 4,
+    "explanation": "range의 끝 값은 포함되지 않습니다."
+  },
+  {
+    "id": 4,
+    "category": "A",
+    "category_title": "Python 문법·자료구조",
+    "question": "{'a':3,'b':5}.get('c',0)의 결과는?",
+    "options": [
+      "None",
+      "오류",
+      "0",
+      "5"
+    ],
+    "answer": 2,
+    "points": 4,
+    "explanation": "get의 두 번째 인자는 기본값입니다."
+  },
+  {
+    "id": 5,
+    "category": "A",
+    "category_title": "Python 문법·자료구조",
+    "question": "[x*x for x in [1,2,3] if x>1] 결과는?",
+    "options": [
+      "[1,4,9]",
+      "[2,3]",
+      "[4,9]",
+      "[1,2,3]"
+    ],
+    "answer": 2,
+    "points": 4,
+    "explanation": "조건을 만족하는 2,3만 제곱합니다."
+  },
+  {
+    "id": 6,
+    "category": "A",
+    "category_title": "Python 문법·자료구조",
+    "question": "함수가 return 없이 끝나면 반환값은?",
+    "options": [
+      "0",
+      "False",
+      "None",
+      "빈 문자열"
+    ],
+    "answer": 2,
+    "points": 3,
+    "explanation": "암묵적으로 None을 반환합니다."
+  },
+  {
+    "id": 7,
+    "category": "A",
+    "category_title": "Python 문법·자료구조",
+    "question": "변경할 수 없는(immutable) 자료형은?",
+    "options": [
+      "list",
+      "dict",
+      "set",
+      "tuple"
+    ],
+    "answer": 3,
+    "points": 4,
+    "explanation": "튜플은 생성 후 요소를 직접 변경할 수 없습니다."
+  },
+  {
+    "id": 8,
+    "category": "B",
+    "category_title": "코드 이해·오류",
+    "question": "x=5; print(x == '5') 결과는?",
+    "options": [
+      "True",
+      "False",
+      "5",
+      "TypeError"
+    ],
+    "answer": 1,
+    "points": 3,
+    "explanation": "숫자 5와 문자열 '5'는 다릅니다."
+  },
+  {
+    "id": 9,
+    "category": "B",
+    "category_title": "코드 이해·오류",
+    "question": "print([10,20,30][-1]) 출력은?",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "오류"
+    ],
+    "answer": 2,
+    "points": 3,
+    "explanation": "-1 인덱스는 마지막 항목입니다."
+  },
+  {
+    "id": 10,
+    "category": "B",
+    "category_title": "코드 이해·오류",
+    "question": "아래 중 ZeroDivisionError를 처리하는 문법은?",
+    "options": [
+      "if ZeroDivisionError",
+      "except ZeroDivisionError:",
+      "catch ZeroDivisionError",
+      "error ZeroDivisionError"
+    ],
+    "answer": 1,
+    "points": 4,
+    "explanation": "try/except로 예외를 처리합니다."
+  },
+  {
+    "id": 11,
+    "category": "B",
+    "category_title": "코드 이해·오류",
+    "question": "def add(a,b=2): return a+b; add(3) 값은?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "오류"
+    ],
+    "answer": 2,
+    "points": 4,
+    "explanation": "기본 인수 b=2가 적용됩니다."
+  },
+  {
+    "id": 12,
+    "category": "B",
+    "category_title": "코드 이해·오류",
+    "question": "조건문에서 비교 연산자는?",
+    "options": [
+      "=",
+      "==",
+      "=>",
+      ":="
+    ],
+    "answer": 1,
+    "points": 3,
+    "explanation": "==는 값이 같은지 비교합니다."
+  },
+  {
+    "id": 13,
+    "category": "B",
+    "category_title": "코드 이해·오류",
+    "question": "빈 리스트 a=[]; a.append(3); len(a) 결과는?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "오류"
+    ],
+    "answer": 1,
+    "points": 3,
+    "explanation": "append는 리스트에 원소 하나를 추가합니다."
+  },
+  {
+    "id": 14,
+    "category": "C",
+    "category_title": "Pandas·데이터 처리",
+    "question": "Pandas의 DataFrame 처음 5개 행을 보는 메서드는?",
+    "options": [
+      "df.first()",
+      "df.head()",
+      "df.top()",
+      "df.rows()"
+    ],
+    "answer": 1,
+    "points": 4,
+    "explanation": "head()의 기본 행 수는 5입니다."
+  },
+  {
+    "id": 15,
+    "category": "C",
+    "category_title": "Pandas·데이터 처리",
+    "question": "각 열의 결측값 개수를 세는 코드는?",
+    "options": [
+      "df.dropna()",
+      "df.isna().sum()",
+      "df.describe()",
+      "df.shape"
+    ],
+    "answer": 1,
+    "points": 4,
+    "explanation": "isna()를 열별로 합산합니다."
+  },
+  {
+    "id": 16,
+    "category": "C",
+    "category_title": "Pandas·데이터 처리",
+    "question": "df에서 age가 20 이상인 행만 선택하려면?",
+    "options": [
+      "df['age']>=20",
+      "df[df['age']>=20]",
+      "df.loc['age']",
+      "df.filter(20)"
+    ],
+    "answer": 1,
+    "points": 4,
+    "explanation": "불리언 마스킹으로 행을 선택합니다."
+  },
+  {
+    "id": 17,
+    "category": "C",
+    "category_title": "Pandas·데이터 처리",
+    "question": "city별 sales 합계를 구하는 코드는?",
+    "options": [
+      "df.groupby('city')['sales'].sum()",
+      "df.sort_values('city')",
+      "df['city'].sum()",
+      "df.mean()"
+    ],
+    "answer": 0,
+    "points": 5,
+    "explanation": "groupby와 집계 함수를 사용합니다."
+  },
+  {
+    "id": 18,
+    "category": "C",
+    "category_title": "Pandas·데이터 처리",
+    "question": "중복 행을 제거하는 메서드는?",
+    "options": [
+      "fillna()",
+      "drop_duplicates()",
+      "dropna()",
+      "replace()"
+    ],
+    "answer": 1,
+    "points": 4,
+    "explanation": "drop_duplicates는 중복 행을 제거합니다."
+  },
+  {
+    "id": 19,
+    "category": "C",
+    "category_title": "Pandas·데이터 처리",
+    "question": "CSV 파일을 읽어 DataFrame으로 만드는 함수는?",
+    "options": [
+      "pd.read_excel()",
+      "pd.read_csv()",
+      "pd.to_csv()",
+      "pd.DataFrame.read()"
+    ],
+    "answer": 1,
+    "points": 4,
+    "explanation": "read_csv로 CSV 데이터를 로딩합니다."
+  },
+  {
+    "id": 20,
+    "category": "D",
+    "category_title": "통계·시각화",
+    "question": "평균이 극단값에 크게 흔들릴 때 대안으로 유용한 통계량은?",
+    "options": [
+      "표준편차",
+      "중앙값",
+      "최댓값",
+      "합계"
+    ],
+    "answer": 1,
+    "points": 4,
+    "explanation": "중앙값은 극단값에 상대적으로 강건합니다."
+  },
+  {
+    "id": 21,
+    "category": "D",
+    "category_title": "통계·시각화",
+    "question": "산점도를 주로 사용하는 목적은?",
+    "options": [
+      "두 수치 변수의 관계 확인",
+      "카테고리 개수 집계",
+      "문자열 변환",
+      "결측치 제거"
+    ],
+    "answer": 0,
+    "points": 3,
+    "explanation": "산점도는 두 수치 변수의 관계를 관찰합니다."
+  },
+  {
+    "id": 22,
+    "category": "D",
+    "category_title": "통계·시각화",
+    "question": "표본상관계수 r=-0.9의 의미로 가장 적절한 것은?",
+    "options": [
+      "강한 음의 선형관계",
+      "강한 양의 선형관계",
+      "인과관계 확정",
+      "상관관계 없음"
+    ],
+    "answer": 0,
+    "points": 4,
+    "explanation": "강한 음의 선형 상관이나 인과를 보장하지 않습니다."
+  },
+  {
+    "id": 23,
+    "category": "D",
+    "category_title": "통계·시각화",
+    "question": "표준편차가 0인 데이터의 특성은?",
+    "options": [
+      "평균이 0",
+      "모든 값이 같음",
+      "결측치가 있음",
+      "항상 정규분포"
+    ],
+    "answer": 1,
+    "points": 4,
+    "explanation": "모든 관측값이 동일하면 표준편차가 0입니다."
+  },
+  {
+    "id": 24,
+    "category": "E",
+    "category_title": "데이터 분석 사고",
+    "question": "미래 시점 데이터를 사용해 과거 예측 모델을 평가하면 어떤 위험이 있나요?",
+    "options": [
+      "데이터 누수",
+      "정확도 저하만 발생",
+      "학습 불가",
+      "위험 없음"
+    ],
+    "answer": 0,
+    "points": 2,
+    "explanation": "미래 정보가 유입되면 성능이 부풀려집니다."
+  },
+  {
+    "id": 25,
+    "category": "E",
+    "category_title": "데이터 분석 사고",
+    "question": "수요 예측용 시계열 데이터의 검증 분할로 가장 적절한 방식은?",
+    "options": [
+      "랜덤 분할만 사용",
+      "시간순으로 과거 학습·미래 평가",
+      "정답 순으로 정렬",
+      "테스트 데이터로 학습"
+    ],
+    "answer": 1,
+    "points": 2,
+    "explanation": "시간 순서를 보존해 실제 예측 조건을 모사합니다."
+  },
+  {
+    "id": 26,
+    "category": "E",
+    "category_title": "데이터 분석 사고",
+    "question": "불량 비율 1%인 데이터에서 항상 정상으로 예측하면 정확도는 99%입니다. 우선 추가 확인할 지표는?",
+    "options": [
+      "모델 크기",
+      "재현율과 정밀도",
+      "학습 시간",
+      "평균값"
+    ],
+    "answer": 1,
+    "points": 2,
+    "explanation": "불균형 문제에서는 정밀도와 재현율이 중요합니다."
+  },
+  {
+    "id": 27,
+    "category": "E",
+    "category_title": "데이터 분석 사고",
+    "question": "데이터 정규화 파라미터를 학습할 때 적절한 방식은?",
+    "options": [
+      "전체 데이터에 fit",
+      "테스트에 fit",
+      "훈련 데이터에 fit, 테스트에는 transform",
+      "매 행마다 fit"
+    ],
+    "answer": 2,
+    "points": 3,
+    "explanation": "데이터 누수를 예방합니다."
+  },
+  {
+    "id": 28,
+    "category": "E",
+    "category_title": "데이터 분석 사고",
+    "question": "센서 데이터에서 결측값이 갑자기 증가했습니다. 먼저 해야 할 일은?",
+    "options": [
+      "모두 0으로 대체",
+      "원인·발생 시점·패턴 조사",
+      "열 전체 삭제",
+      "모델부터 변경"
+    ],
+    "answer": 1,
+    "points": 2,
+    "explanation": "결측 발생 메커니즘을 먼저 파악해야 합니다."
+  },
+  {
+    "id": 29,
+    "category": "E",
+    "category_title": "데이터 분석 사고",
+    "question": "회귀 예측에서 MAE가 의미하는 것은?",
+    "options": [
+      "평균 절대 오차",
+      "분류 정확도",
+      "표준편차",
+      "설명분산"
+    ],
+    "answer": 0,
+    "points": 2,
+    "explanation": "절대 오차를 평균한 수치입니다."
+  },
+  {
+    "id": 30,
+    "category": "E",
+    "category_title": "데이터 분석 사고",
+    "question": "변수가 목적값과 상관이 높으면 인과관계가 증명되나요?",
+    "options": [
+      "예",
+      "아니오",
+      "샘플이 크면 항상 예",
+      "r이 양수일 때만 예"
+    ],
+    "answer": 1,
+    "points": 2,
+    "explanation": "상관관계만으로 인과관계를 입증할 수 없습니다."
+  }
+]
